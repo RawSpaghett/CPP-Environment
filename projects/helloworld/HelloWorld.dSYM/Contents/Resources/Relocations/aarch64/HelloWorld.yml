@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/justinfowler/Desktop/C++/C++ Environment/projects/helloworld/projects/helloworld/HelloWorld'
+relocations:     []
+...
